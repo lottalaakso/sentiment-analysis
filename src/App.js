@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import 'https://github.com/lottalaakso/IMBd.git';
 
 import Sentiment from 'sentiment';
 const sentiment = new Sentiment();
-//comment
+
 
 function App() {
 
