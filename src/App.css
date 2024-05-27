@@ -23,9 +23,25 @@
   font-family: 'Roboto Mono';
   font-size: calc(10px + 2vmin);
   color: white;
+  text-align: center;
 }
 
 .App-link {
   color: #ffffff;
+}
+
+button {
+  font-family: 'Roboto Mono';
+  padding: 10px;
+  border-radius: 20px;
+  border: white;
+  font-size: 14px;
+}
+
+textarea {
+  border: white;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 
